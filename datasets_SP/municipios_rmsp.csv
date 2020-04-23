@@ -1,40 +1,40 @@
-Município,Região
-São Paulo,Centro
-Arujá,Leste
-Biritiba-Mirim,Leste
-Ferraz de Vasconcelos,Leste
-Guararema,Leste
-Guarulhos,Leste
-Itaquaquecetuba,Leste
-Mogi das Cruzes,Leste
-Poá,Leste
-Salesópolis,Leste
-Santa Isabel,Leste
-Suzano,Leste
-Caieiras,Norte
-Cajamar,Norte
-Francisco Morato,Norte
-Franco da Rocha,Norte
-Mairiporã,Norte
-Barueri,Oeste
-Carapicuíba,Oeste
-Itapevi,Oeste
-Jandira,Oeste
-Osasco,Oeste
-Pirapora do Bom Jesus,Oeste
-Santana de Parnaíba,Oeste
-Diadema,Sudeste
-Mauá,Sudeste
-Ribeirão Pires,Sudeste
-Rio Grande da Serra,Sudeste
-Santo André,Sudeste
-São Bernardo do Campo,Sudeste
-São Caetano do Sul,Sudeste
-Cotia,Sudoeste
-Embu das Artes,Sudoeste
-Embu-Guaçu,Sudoeste
-Itapecerica da Serra,Sudoeste
-Juquitiba,Sudoeste
-São Lourenço da Serra,Sudoeste
-Taboão da Serra,Sudoeste
-Vargem Grande Paulista,Sudoeste
+Município,Região,Latitude,Longitude
+São Paulo,Centro,-23.5505,-46.6333
+Arujá,Leste,-23.397,-46.3204
+Biritiba-Mirim,Leste,-23.5705,-46.0409
+Ferraz de Vasconcelos,Leste,-23.529,-46.3636
+Guararema,Leste,-23.4129,-46.035
+Guarulhos,Leste,-23.4543,-46.5337
+Itaquaquecetuba,Leste,-23.4849,-46.3495
+Mogi das Cruzes,Leste,-23.5393,-46.2167
+Poá,Leste,-23.5338,-46.3477
+Salesópolis,Leste,-23.5339,-45.8496
+Santa Isabel,Leste,-23.3158,-46.2254
+Suzano,Leste,-23.5453,-46.3116
+Caieiras,Norte,-23.3612,-46.7402
+Cajamar,Norte,-23.355,-46.8789
+Francisco Morato,Norte,-23.2794,-46.7448
+Franco da Rocha,Norte,-23.3234,-46.7295
+Mairiporã,Norte,-23.3157,-46.5824
+Barueri,Oeste,-23.5114,-46.8729
+Carapicuíba,Oeste,-23.524,-46.8411
+Itapevi,Oeste,-23.5493,-46.9332
+Jandira,Oeste,-23.528,-46.9028
+Osasco,Oeste,-23.5334,-46.7915
+Pirapora do Bom Jesus,Oeste,-23.397,-46.9996
+Santana de Parnaíba,Oeste,-23.443,-46.9227
+Diadema,Sudeste,-23.6817,-46.6203
+Mauá,Sudeste,-23.6666,-46.4599
+Ribeirão Pires,Sudeste,-23.7082,-46.4042
+Rio Grande da Serra,Sudeste,-23.7442,-46.3975
+Santo André,Sudeste,-23.6742,-46.5436
+São Bernardo do Campo,Sudeste,-23.6898,-46.5648
+São Caetano do Sul,Sudeste,-23.6234,-46.5552
+Cotia,Sudoeste,-23.6027,-46.9195
+Embu das Artes,Sudoeste,-23.6515,-46.8522
+Embu-Guaçu,Sudoeste,-23.8295,-46.8149
+Itapecerica da Serra,Sudoeste,-23.7154,-46.8526
+Juquitiba,Sudoeste,-23.9289,-47.0715
+São Lourenço da Serra,Sudoeste,-23.8496,-46.9436
+Taboão da Serra,Sudoeste,-23.6229,-46.7817
+Vargem Grande Paulista,Sudoeste,-23.5998,-47.0225
